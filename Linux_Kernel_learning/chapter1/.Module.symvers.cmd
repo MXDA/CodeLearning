@@ -1,1 +1,0 @@
-cmd_/home/ubuntu/Desktop/CodeLearning/Linux_Kernel_learning/chapter1/Module.symvers := sed 's/ko$$/o/' /home/ubuntu/Desktop/CodeLearning/Linux_Kernel_learning/chapter1/modules.order | scripts/mod/modpost -m -a   -o /home/ubuntu/Desktop/CodeLearning/Linux_Kernel_learning/chapter1/Module.symvers -e -i Module.symvers   -T -
