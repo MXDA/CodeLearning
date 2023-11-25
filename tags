@@ -1,0 +1,650 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+ARMSTRONG_NUMBERS_H	exercism/c/Armstrong_Numbers/Armstrong_Numbers.h	/^#define ARMSTRONG_NUMBERS_H$/;"	d	language:C++
+COROUTINE_DEAD	coroutine/coroutine.h	/^#define COROUTINE_DEAD /;"	d	language:C++
+COROUTINE_READY	coroutine/coroutine.h	/^#define COROUTINE_READY /;"	d	language:C++
+COROUTINE_RUNNING	coroutine/coroutine.h	/^#define COROUTINE_RUNNING /;"	d	language:C++
+COROUTINE_SUSPEND	coroutine/coroutine.h	/^#define COROUTINE_SUSPEND /;"	d	language:C++
+CURRENT_PATH	linuxmooc/chapter1/exnum/Makefile	/^CURRENT_PATH:=$(shell pwd)$/;"	m	language:Make
+CURRENT_PATH	linuxmooc/chapter1/helloworld/Makefile	/^CURRENT_PATH:=$(shell pwd)$/;"	m	language:Make
+CURRENT_PATH	linuxmooc/chapter1/lklist/Makefile	/^CURRENT_PATH:=$(shell pwd)$/;"	m	language:Make
+CU_PATH	linuxmooc/chapter1/kernel_param/Makefile	/^CU_PATH:=$(shell pwd)$/;"	m	language:Make
+CU_PATH	linuxmooc/chapter1/rbtree/Makefile	/^CU_PATH:=$(shell pwd)$/;"	m	language:Make
+C_COROUTINE_H	coroutine/coroutine.h	/^#define C_COROUTINE_H$/;"	d	language:C++
+CodeLearning	README.md	/^# CodeLearning$/;"	c	language:Markdown
+DEFAULT_COROUTINE	coroutine/coroutine.c	/^#define DEFAULT_COROUTINE /;"	d	language:C	file:
+Empty	lists/src/first.rs	/^    Empty, $/;"	e	language:Rust	enum:Link
+Foo	leetcode/mutlithred/1114_1.c	/^} Foo;$/;"	t	language:C	typeref:struct:__anon932dca320108	file:
+Foo	leetcode/mutlithred/1114_2.c	/^} Foo;$/;"	t	language:C	typeref:struct:__anon932dce730108	file:
+Foo	leetcode/mutlithred/1114_3.c	/^} Foo;$/;"	t	language:C	typeref:struct:__anon932dd2b40108	file:
+FuncArguments	PPT_Code/ex3.c	/^} FuncArguments;$/;"	t	language:C	typeref:struct:__anon999fc3a30108	file:
+FuncArguments	PPT_Code/ex3.rs	/^struct FuncArguments {$/;"	s	language:Rust
+HELLO_WORLD_H	exercism/c++/Hello_World/hello_world.h	/^#define HELLO_WORLD_H$/;"	d	language:C++
+HELLO_WORLD_H	exercism/c/Hello_World/Hello_World.h	/^#define HELLO_WORLD_H$/;"	d	language:C++
+KERNELDIR	linuxmooc/chapter2/paging_lowmem/Makefile	/^KERNELDIR:= \/lib\/modules\/$(shell uname -r)\/build$/;"	m	language:Make
+LEAP_H	exercism/c++/leap/leap.h	/^#define LEAP_H$/;"	d	language:C++
+LINUX_KERNEL	linuxmooc/chapter1/exnum/Makefile	/^LINUX_KERNEL:=$(shell uname -r)$/;"	m	language:Make
+LINUX_KERNEL	linuxmooc/chapter1/helloworld/Makefile	/^LINUX_KERNEL:=$(shell uname -r)$/;"	m	language:Make
+LINUX_KERNEL	linuxmooc/chapter1/lklist/Makefile	/^LINUX_KERNEL:=$(shell uname -r)$/;"	m	language:Make
+LINUX_KERNEL_PATH	linuxmooc/chapter1/exnum/Makefile	/^LINUX_KERNEL_PATH:=\/usr\/src\/linux-headers-$(LINUX_KERNEL)$/;"	m	language:Make
+LINUX_KERNEL_PATH	linuxmooc/chapter1/helloworld/Makefile	/^LINUX_KERNEL_PATH:= \/usr\/src\/linux-headers-$(LINUX_KERNEL)$/;"	m	language:Make
+LINUX_KERNEL_PATH	linuxmooc/chapter1/lklist/Makefile	/^LINUX_KERNEL_PATH:=\/usr\/src\/linux-headers-$(LINUX_KERNEL)$/;"	m	language:Make
+LK	linuxmooc/chapter1/kernel_param/Makefile	/^LK:=$(shell uname -r)$/;"	m	language:Make
+LK	linuxmooc/chapter1/rbtree/Makefile	/^LK:=$(shell uname -r)$/;"	m	language:Make
+LK_PATH	linuxmooc/chapter1/kernel_param/Makefile	/^LK_PATH:=\/usr\/src\/linux-headers-$(LK)$/;"	m	language:Make
+LK_PATH	linuxmooc/chapter1/rbtree/Makefile	/^LK_PATH:=\/usr\/src\/linux-headers-$(LK)$/;"	m	language:Make
+Link	lists/src/first.rs	/^enum Link {$/;"	g	language:Rust
+List	lists/src/first.rs	/^impl Drop for List {$/;"	c	language:Rust
+List	lists/src/first.rs	/^impl List {$/;"	c	language:Rust
+List	lists/src/first.rs	/^pub struct List {$/;"	s	language:Rust
+ListNode	leetcode/Hot100/test.rs	/^impl ListNode {$/;"	c	language:Rust
+ListNode	leetcode/Hot100/test.rs	/^pub struct ListNode {$/;"	s	language:Rust
+M	acwing/basic/143.cpp	/^const int M = 31 * N;$/;"	v	language:C++	typeref:typename:const int
+M	acwing/basic/846.cpp	/^const int M = 2 * N;$/;"	v	language:C++	typeref:typename:const int
+M	acwing/basic/846_.cpp	/^const int M = 2 * N;$/;"	v	language:C++	typeref:typename:const int
+M	acwing/basic/847.cpp	/^const int M = 2 * N;$/;"	v	language:C++	typeref:typename:const int
+MSGKEY	PPT_Code/ex2.c	/^#define MSGKEY /;"	d	language:C	file:
+More	lists/src/first.rs	/^    More(Box<Node>),$/;"	e	language:Rust	enum:Link
+N	acwing/basic/143.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/154.cpp	/^const int N = 1e6 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/780.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/781.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/796.cpp	/^const int N = 1010;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/797.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/798.cpp	/^const int N = 1010;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/799.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/826.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/826_.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/827.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/828.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/829.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/830.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/835.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/836.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/837.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/838.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/842.cpp	/^const int N = 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/843.cpp	/^const int N = 20;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/844.cpp	/^const int N = 110;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/844_.cpp	/^const int N = 110;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/846.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/846_.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/847.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	acwing/basic/848.cpp	/^const int N = 1e5 + 10;$/;"	v	language:C++	typeref:typename:const int
+N	linuxmooc/chapter1/lklist/lklist.c	/^#define N /;"	d	language:C	file:
+N	pat_jia/1004.cpp	/^const int N = 110;$/;"	v	language:C++	typeref:typename:const int
+N	pat_jia/1035.cpp	/^const int N = 1010;$/;"	v	language:C++	typeref:typename:const int
+Node	lists/src/first.rs	/^struct Node {$/;"	s	language:Rust
+PII	acwing/basic/803.cpp	/^typedef pair<int, int> PII;$/;"	t	language:C++	typeref:typename:pair<int,int>	file:
+PII	acwing/basic/844.cpp	/^typedef pair<int, int> PII;$/;"	t	language:C++	typeref:typename:pair<int,int>	file:
+PII	acwing/basic/844_.cpp	/^typedef pair<int, int> PII;$/;"	t	language:C++	typeref:typename:pair<int,int>	file:
+PWD	linuxmooc/chapter2/paging_lowmem/Makefile	/^PWD:= $(shell pwd)$/;"	m	language:Make
+STACK_SIZE	coroutine/coroutine.c	/^#define STACK_SIZE /;"	d	language:C	file:
+Solution	leetcode/Hot100/136Single_Number.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	leetcode/Hot100/136Single_Number.rs	/^impl Solution {$/;"	c	language:Rust
+Solution	leetcode/Hot100/169Majority_Element.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	leetcode/Hot100/169Majority_Element.rs	/^impl Solution {$/;"	c	language:Rust
+Solution	leetcode/Hot100/1TwoSum.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	leetcode/Hot100/1TwoSum.rs	/^impl Solution {$/;"	c	language:Rust
+Solution	leetcode/Hot100/20VaildParentheses.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	leetcode/Hot100/20VaildParentheses.rs	/^impl Solution {$/;"	c	language:Rust
+Solution	leetcode/Hot100/21MergeTwoSortedLists.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	leetcode/Hot100/21MergeTwoSortedLists.rs	/^impl Solution {$/;"	c	language:Rust
+Solution	leetcode/Hot100/283MoveZeroes.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	leetcode/Hot100/283MoveZeroes.rs	/^impl Solution {$/;"	c	language:Rust
+Solution	leetcode/Hot100/94BinaryTreeInorderTraversal.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	leetcode/Hot100/94BinaryTreeInorderTraversal.rs	/^impl Solution {$/;"	c	language:Rust
+String	opp_hj/string.h	/^class String {$/;"	c	language:C++
+String	opp_hj/string.h	/^inline String::String(const String& str) {$/;"	f	language:C++	class:String	signature:(const String & str)
+String	opp_hj/string.h	/^inline String::String(const char* cstr) {$/;"	f	language:C++	class:String	signature:(const char * cstr)
+__MYCOMPLEX__	opp_hj/complex.h	/^#define __MYCOMPLEX__$/;"	d	language:C++
+__MYSTRING__	opp_hj/string.h	/^#define __MYSTRING__$/;"	d	language:C++
+__anon932dca320108	leetcode/mutlithred/1114_1.c	/^typedef struct {$/;"	s	language:C	file:
+__anon932dce730108	leetcode/mutlithred/1114_2.c	/^typedef struct {$/;"	s	language:C	file:
+__anon932dd2b40108	leetcode/mutlithred/1114_3.c	/^typedef struct {$/;"	s	language:C	file:
+__anon999fc3a30108	PPT_Code/ex3.c	/^typedef struct {$/;"	s	language:C	file:
+__doami	opp_hj/complex.h	/^inline complex& __doami(complex* ths, const complex& r) {$/;"	f	language:C++	typeref:typename:complex &	signature:(complex * ths,const complex & r)
+__doaml	opp_hj/complex.h	/^inline complex& __doaml(complex* ths, const complex& r) {$/;"	f	language:C++	typeref:typename:complex &	signature:(complex * ths,const complex & r)
+__doapl	opp_hj/complex.h	/^inline complex& __doapl(complex* ths, const complex& r) {$/;"	f	language:C++	typeref:typename:complex &	signature:(complex * ths,const complex & r)
+_co_delete	coroutine/coroutine.c	/^void _co_delete(struct coroutine* co) {$/;"	f	language:C	typeref:typename:void	signature:(struct coroutine * co)
+_co_new	coroutine/coroutine.c	/^struct coroutine * _co_new(struct schedule* S, coroutine_func func, void *ud) {$/;"	f	language:C	typeref:struct:coroutine *	signature:(struct schedule * S,coroutine_func func,void * ud)
+_save_stack	coroutine/coroutine.c	/^static void _save_stack(struct coroutine *C, char *top) {$/;"	f	language:C	typeref:typename:void	file:	signature:(struct coroutine * C,char * top)
+a	acwing/basic/143.cpp	/^int a[N], n;$/;"	v	language:C++	typeref:typename:int[]
+a	acwing/basic/154.cpp	/^int a[N];$/;"	v	language:C++	typeref:typename:int[]
+a	acwing/basic/780.cpp	/^int a[N], b[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[]
+a	acwing/basic/781.cpp	/^int a[N], b[N], n, m;$/;"	v	language:C++	typeref:typename:int[]
+a	acwing/basic/796.cpp	/^int a[N][N], n, m, x;$/;"	v	language:C++	typeref:typename:int[][]
+a	acwing/basic/797.cpp	/^int a[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[]
+a	acwing/basic/798.cpp	/^int a[N][N], n, m, k;$/;"	v	language:C++	typeref:typename:int[][]
+a	acwing/basic/799.cpp	/^int a[N], s[N], n, res;$/;"	v	language:C++	typeref:typename:int[]
+a	acwing/basic/842.cpp	/^int a[N], n;$/;"	v	language:C++	typeref:typename:int[]
+a	linuxmooc/chapter1/kernel_param/kernel_param.c	/^static int a, b;$/;"	v	language:C	typeref:typename:int	file:
+add	acwing/basic/826.cpp	/^void add(int k, int x) {$/;"	f	language:C++	typeref:typename:void	signature:(int k,int x)
+add	acwing/basic/826_.cpp	/^void add(int k, int x) {$/;"	f	language:C++	typeref:typename:void	signature:(int k,int x)
+add	acwing/basic/827.cpp	/^void add(int k, int x) {$/;"	f	language:C++	typeref:typename:void	signature:(int k,int x)
+add	acwing/basic/846.cpp	/^void add(int a, int b) {$/;"	f	language:C++	typeref:typename:void	signature:(int a,int b)
+add	acwing/basic/846_.cpp	/^void add(int a, int b) {$/;"	f	language:C++	typeref:typename:void	signature:(int a,int b)
+add	acwing/basic/847.cpp	/^void add(int a, int b) {$/;"	f	language:C++	typeref:typename:void	signature:(int a,int b)
+add	acwing/basic/848.cpp	/^void add(int a, int b) {$/;"	f	language:C++	typeref:typename:void	signature:(int a,int b)
+add	pat_jia/1004.cpp	/^void add(int a, int b) {$/;"	f	language:C++	typeref:typename:void	signature:(int a,int b)
+add_count	modern_c++_learn/smart_ptr_learn.cpp	/^    void add_count() noexcept {$/;"	f	language:C++	class:shared_count	typeref:typename:void	file:	signature:()
+add_to_head	acwing/basic/826.cpp	/^void add_to_head(int x) {$/;"	f	language:C++	typeref:typename:void	signature:(int x)
+add_to_head	acwing/basic/826_.cpp	/^void add_to_head(int x) {$/;"	f	language:C++	typeref:typename:void	signature:(int x)
+all	coroutine/Makefile	/^all: main$/;"	t	language:Make
+all	linuxmooc/chapter1/exnum/Makefile	/^all:$/;"	t	language:Make
+all	linuxmooc/chapter1/helloworld/Makefile	/^all:$/;"	t	language:Make
+all	linuxmooc/chapter1/kernel_param/Makefile	/^all:$/;"	t	language:Make
+all	linuxmooc/chapter1/lklist/Makefile	/^all:$/;"	t	language:Make
+all	linuxmooc/chapter1/rbtree/Makefile	/^all:$/;"	t	language:Make
+all	linuxmooc/chapter2/paging_lowmem/Makefile	/^all:$/;"	t	language:Make
+ans	acwing/basic/846.cpp	/^int ans = N, n;$/;"	v	language:C++	typeref:typename:int
+ans	acwing/basic/846_.cpp	/^int ans = N, n;$/;"	v	language:C++	typeref:typename:int
+args	coroutine/main.c	/^struct args {$/;"	s	language:C	file:
+b	acwing/basic/780.cpp	/^int a[N], b[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[][]
+b	acwing/basic/781.cpp	/^int a[N], b[N], n, m;$/;"	v	language:C++	typeref:typename:int[][]
+b	leetcode/mutlithred/1114_3.c	/^    sem_t b;$/;"	m	language:C	struct:__anon932dd2b40108	typeref:typename:sem_t	file:
+b	linuxmooc/chapter1/kernel_param/kernel_param.c	/^static int a, b;$/;"	v	language:C	typeref:typename:int	file:
+basics	lists/src/first.rs	/^    fn basics() {$/;"	f	language:Rust	module:test	signature:()
+bfs	acwing/basic/844.cpp	/^int bfs() {$/;"	f	language:C++	typeref:typename:int	signature:()
+bfs	acwing/basic/844_.cpp	/^int bfs() {$/;"	f	language:C++	typeref:typename:int	signature:()
+bfs	acwing/basic/845.cpp	/^int bfs() {$/;"	f	language:C++	typeref:typename:int	signature:()
+bfs	acwing/basic/845_.cpp	/^int bfs() {$/;"	f	language:C++	typeref:typename:int	signature:()
+bfs	acwing/basic/847.cpp	/^int bfs() {$/;"	f	language:C++	typeref:typename:int	signature:()
+c	leetcode/mutlithred/1114_3.c	/^    sem_t c;$/;"	m	language:C	struct:__anon932dd2b40108	typeref:typename:sem_t	file:
+cap	coroutine/coroutine.c	/^	int cap;$/;"	m	language:C	struct:schedule	typeref:typename:int	file:
+cap	coroutine/coroutine.c	/^	ptrdiff_t cap;$/;"	m	language:C	struct:coroutine	typeref:typename:ptrdiff_t	file:
+circle	modern_c++_learn/smart_ptr_learn.cpp	/^class circle : public shape {$/;"	c	language:C++	file:
+clean	coroutine/Makefile	/^clean:$/;"	t	language:Make
+clean	linuxmooc/chapter1/exnum/Makefile	/^clean:$/;"	t	language:Make
+clean	linuxmooc/chapter1/helloworld/Makefile	/^clean:$/;"	t	language:Make
+clean	linuxmooc/chapter1/kernel_param/Makefile	/^clean:$/;"	t	language:Make
+clean	linuxmooc/chapter1/lklist/Makefile	/^clean:$/;"	t	language:Make
+clean	linuxmooc/chapter1/rbtree/Makefile	/^clean:$/;"	t	language:Make
+clean	linuxmooc/chapter2/paging_lowmem/Makefile	/^clean:$/;"	t	language:Make
+cnt	acwing/basic/835.cpp	/^int trie[N][26], cnt[N], idx;$/;"	v	language:C++	typeref:typename:int[][26][]
+cnt	acwing/basic/837.cpp	/^int p[N], cnt[N];$/;"	v	language:C++	typeref:typename:int[][]
+cnt	pat_jia/1004.cpp	/^int cnt[N], depth;$/;"	v	language:C++	typeref:typename:int[]
+co	coroutine/coroutine.c	/^	struct coroutine **co;$/;"	m	language:C	struct:schedule	typeref:struct:coroutine **	file:
+col	acwing/basic/843.cpp	/^bool col[N], dg[N], udg[N];$/;"	v	language:C++	typeref:typename:bool[]
+complex	opp_hj/complex.h	/^	complex(double r = 0, double i = 0) : re(r), im(i) {  }$/;"	f	language:C++	class:complex	signature:(double r=0,double i=0)
+complex	opp_hj/complex.h	/^class complex {$/;"	c	language:C++
+conj	opp_hj/complex.h	/^inline complex conj(const complex& x) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x)
+const_pointer_cast	modern_c++_learn/smart_ptr_learn.cpp	/^smart_ptr<T> const_pointer_cast(const smart_ptr<U>& other) noexcept {$/;"	f	language:C++	typeref:typename:smart_ptr<T>	signature:(const smart_ptr<U> & other)
+coroutine	coroutine/coroutine.c	/^struct coroutine {$/;"	s	language:C	file:
+coroutine_close	coroutine/coroutine.c	/^void coroutine_close(struct schedule *S) {$/;"	f	language:C	typeref:typename:void	signature:(struct schedule * S)
+coroutine_func	coroutine/coroutine.h	/^typedef void (*coroutine_func)(struct schedule *, void *ud);$/;"	t	language:C++	typeref:typename:void (*)(struct schedule *,void * ud)
+coroutine_new	coroutine/coroutine.c	/^int coroutine_new(struct schedule* S, coroutine_func func, void *ud) {$/;"	f	language:C	typeref:typename:int	signature:(struct schedule * S,coroutine_func func,void * ud)
+coroutine_open	coroutine/coroutine.c	/^struct schedule* coroutine_open(void) {$/;"	f	language:C	typeref:struct:schedule *	signature:(void)
+coroutine_resume	coroutine/coroutine.c	/^void coroutine_resume(struct schedule* S, int id) {$/;"	f	language:C	typeref:typename:void	signature:(struct schedule * S,int id)
+coroutine_running	coroutine/coroutine.c	/^int coroutine_running(struct schedule * S) {$/;"	f	language:C	typeref:typename:int	signature:(struct schedule * S)
+coroutine_status	coroutine/coroutine.c	/^int coroutine_status(struct schedule * S, int id) {$/;"	f	language:C	typeref:typename:int	signature:(struct schedule * S,int id)
+coroutine_yield	coroutine/coroutine.c	/^void coroutine_yield(struct schedule *S) {$/;"	f	language:C	typeref:typename:void	signature:(struct schedule * S)
+count_	modern_c++_learn/smart_ptr_learn.cpp	/^    long count_;$/;"	m	language:C++	class:shared_count	typeref:typename:long	file:
+cr0	linuxmooc/chapter2/paging_lowmem/paging_lowmem.c	/^static unsigned long cr0,cr3;$/;"	v	language:C	typeref:typename:unsigned long	file:
+cr3	linuxmooc/chapter2/paging_lowmem/paging_lowmem.c	/^static unsigned long cr0,cr3;$/;"	v	language:C	typeref:typename:unsigned long	file:
+creat_lklist	linuxmooc/chapter1/lklist/lklist.c	/^void creat_lklist(void) {$/;"	f	language:C	typeref:typename:void	signature:(void)
+ctx	coroutine/coroutine.c	/^	ucontext_t ctx;$/;"	m	language:C	struct:coroutine	typeref:typename:ucontext_t	file:
+d	acwing/basic/844.cpp	/^int d[N][N], g[N][N];$/;"	v	language:C++	typeref:typename:int[][]
+d	acwing/basic/844_.cpp	/^int d[N][N], g[N][N];$/;"	v	language:C++	typeref:typename:int[][]
+d	acwing/basic/845.cpp	/^unordered_map<string, int> d;$/;"	v	language:C++	typeref:typename:unordered_map<string,int>
+d	acwing/basic/845_.cpp	/^unordered_map<string, int> d;$/;"	v	language:C++	typeref:typename:unordered_map<string,int>
+d	acwing/basic/847.cpp	/^int d[N], q[N];$/;"	v	language:C++	typeref:typename:int[]
+d	acwing/basic/848.cpp	/^int q[N], d[N];$/;"	v	language:C++	typeref:typename:int[][]
+data	linuxmooc/chapter1/lklist/lklist.c	/^    int data;$/;"	m	language:C	struct:lklist	typeref:typename:int	file:
+default	exercism/x86-64_Assembly/hello_world.asm	/^default rel$/;"	l	language:Asm
+del_lklist	linuxmooc/chapter1/lklist/lklist.c	/^void del_lklist(void) {$/;"	f	language:C	typeref:typename:void	signature:(void)
+depth	pat_jia/1004.cpp	/^int cnt[N], depth;$/;"	v	language:C++	typeref:typename:int[]
+dfs	acwing/basic/842.cpp	/^void dfs(int u, int st) {$/;"	f	language:C++	typeref:typename:void	signature:(int u,int st)
+dfs	acwing/basic/843.cpp	/^void dfs(int u) {$/;"	f	language:C++	typeref:typename:void	signature:(int u)
+dfs	acwing/basic/846.cpp	/^int dfs(int u) {$/;"	f	language:C++	typeref:typename:int	signature:(int u)
+dfs	acwing/basic/846_.cpp	/^int dfs(int u) {$/;"	f	language:C++	typeref:typename:int	signature:(int u)
+dfs	pat_jia/1004.cpp	/^void dfs(int u, int d) {$/;"	f	language:C++	typeref:typename:void	signature:(int u,int d)
+dg	acwing/basic/843.cpp	/^bool col[N], dg[N], udg[N];$/;"	v	language:C++	typeref:typename:bool[][]
+down	acwing/basic/838.cpp	/^void down(int u) {$/;"	f	language:C++	typeref:typename:void	signature:(int u)
+drop	lists/src/first.rs	/^    fn drop(&mut self) {$/;"	P	language:Rust	implementation:List	signature:(&mut self)
+dx	acwing/basic/844.cpp	/^int dx[] = {-1, 0, 1, 0}, dy[] = {0, 1, 0, -1};$/;"	v	language:C++	typeref:typename:int[]
+dx	acwing/basic/844_.cpp	/^int dx[] = {-1, 0, 1, 0}, dy[] = {0, 1, 0, -1};$/;"	v	language:C++	typeref:typename:int[]
+dx	acwing/basic/845.cpp	/^int dx[] = {1, 0, -1, 0}, dy[] = {0, 1, 0, -1};$/;"	v	language:C++	typeref:typename:int[]
+dx	acwing/basic/845_.cpp	/^int dx[] = {1, 0, -1, 0}, dy[] = {0, 1, 0, -1};$/;"	v	language:C++	typeref:typename:int[]
+dy	acwing/basic/844.cpp	/^int dx[] = {-1, 0, 1, 0}, dy[] = {0, 1, 0, -1};$/;"	v	language:C++	typeref:typename:int[][]
+dy	acwing/basic/844_.cpp	/^int dx[] = {-1, 0, 1, 0}, dy[] = {0, 1, 0, -1};$/;"	v	language:C++	typeref:typename:int[][]
+dy	acwing/basic/845.cpp	/^int dx[] = {1, 0, -1, 0}, dy[] = {0, 1, 0, -1};$/;"	v	language:C++	typeref:typename:int[][]
+dy	acwing/basic/845_.cpp	/^int dx[] = {1, 0, -1, 0}, dy[] = {0, 1, 0, -1};$/;"	v	language:C++	typeref:typename:int[][]
+dynamic_pointer_cast	modern_c++_learn/smart_ptr_learn.cpp	/^smart_ptr<T> dynamic_pointer_cast(const smart_ptr<U>& other) noexcept {$/;"	f	language:C++	typeref:typename:smart_ptr<T>	signature:(const smart_ptr<U> & other)
+e	acwing/basic/826.cpp	/^int e[N], ne[N], idx, head;$/;"	v	language:C++	typeref:typename:int[]
+e	acwing/basic/826_.cpp	/^int e[N], ne[N], idx, head;$/;"	v	language:C++	typeref:typename:int[]
+e	acwing/basic/827.cpp	/^int e[N], l[N], r[N], idx;$/;"	v	language:C++	typeref:typename:int[]
+e	acwing/basic/846.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][]
+e	acwing/basic/846_.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][]
+e	acwing/basic/847.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][]
+e	acwing/basic/848.cpp	/^int h[N], e[N], ne[N], idx;$/;"	v	language:C++	typeref:typename:int[][]
+e	pat_jia/1004.cpp	/^int h[N], e[N], ne[N], idx;$/;"	v	language:C++	typeref:typename:int[][]
+ed	acwing/basic/845.cpp	/^string st = "", ed = "12345678x";$/;"	v	language:C++	typeref:typename:string
+ed	acwing/basic/845_.cpp	/^string st = "", ed = "12345678x";$/;"	v	language:C++	typeref:typename:string
+elem	lists/src/first.rs	/^    elem: i32,$/;"	m	language:Rust	struct:Node
+eval	acwing/basic/3302.cpp	/^void eval() {$/;"	f	language:C++	typeref:typename:void	signature:()
+find	acwing/basic/836.cpp	/^int find(int x) {$/;"	f	language:C++	typeref:typename:int	signature:(int x)
+find	acwing/basic/837.cpp	/^int find(int x) {$/;"	f	language:C++	typeref:typename:int	signature:(int x)
+first	leetcode/mutlithred/1114_1.c	/^void first(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+first	leetcode/mutlithred/1114_2.c	/^void first(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+first	leetcode/mutlithred/1114_3.c	/^void first(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+first	lists/src/lib.rs	/^pub mod first;/;"	n	language:Rust
+first_node	ROS2_learn/ch2/d2lros2/chapt2/basic/CMakeLists.txt	/^add_executable(first_node first_ros2_node.cpp)$/;"	t	language:CMake
+first_node	ROS2_learn/ch2/d2lros2/chapt2/basic/CMakeLists.txt	/^project(first_node)$/;"	p	language:CMake
+foo	coroutine/main.c	/^static void foo(struct schedule *S, void *ud) {$/;"	f	language:C	typeref:typename:void	file:	signature:(struct schedule * S,void * ud)
+fooCreate	leetcode/mutlithred/1114_1.c	/^Foo* fooCreate() {$/;"	f	language:C	typeref:typename:Foo *	signature:()
+fooCreate	leetcode/mutlithred/1114_2.c	/^Foo* fooCreate() {$/;"	f	language:C	typeref:typename:Foo *	signature:()
+fooCreate	leetcode/mutlithred/1114_3.c	/^Foo* fooCreate() {$/;"	f	language:C	typeref:typename:Foo *	signature:()
+fooFree	leetcode/mutlithred/1114_1.c	/^void fooFree(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+fooFree	leetcode/mutlithred/1114_2.c	/^void fooFree(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+fooFree	leetcode/mutlithred/1114_3.c	/^void fooFree(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+func	PPT_Code/ex3.c	/^void *func(void *arg) {$/;"	f	language:C	typeref:typename:void *	signature:(void * arg)
+func	PPT_Code/ex3.rs	/^fn func(args: FuncArguments) -> i32 {$/;"	f	language:Rust	signature:(args: FuncArguments) -> i32
+func	PTA/Basic_Level/1001.cpp	/^int func(int num) {$/;"	f	language:C++	typeref:typename:int	signature:(int num)
+func	PTA/Basic_Level/1001.rs	/^fn func(num: i32) -> i32 {$/;"	f	language:Rust	signature:(num: i32) -> i32
+func	coroutine/coroutine.c	/^	coroutine_func func;$/;"	m	language:C	struct:coroutine	typeref:typename:coroutine_func	file:
+func	pat_jia/1035.cpp	/^string func(string pd) {$/;"	f	language:C++	typeref:typename:string	signature:(string pd)
+g	acwing/basic/843.cpp	/^char g[N][N];$/;"	v	language:C++	typeref:typename:char[][]
+g	acwing/basic/844.cpp	/^int d[N][N], g[N][N];$/;"	v	language:C++	typeref:typename:int[][][][]
+g	acwing/basic/844_.cpp	/^int d[N][N], g[N][N];$/;"	v	language:C++	typeref:typename:int[][][][]
+get	modern_c++_learn/smart_ptr_learn.cpp	/^    T* get() const noexcept {$/;"	f	language:C++	class:smart_ptr	typeref:typename:T *	file:	signature:() const
+get_c_str	opp_hj/string.h	/^	char* get_c_str() const { return m_data; }$/;"	f	language:C++	class:String	typeref:typename:char *	signature:() const
+get_count	modern_c++_learn/smart_ptr_learn.cpp	/^    long get_count() noexcept {$/;"	f	language:C++	class:shared_count	typeref:typename:long	file:	signature:()
+get_pgtable_macro	linuxmooc/chapter2/paging_lowmem/paging_lowmem.c	/^static void get_pgtable_macro(void)$/;"	f	language:C	typeref:typename:void	file:	signature:(void)
+global	exercism/x86-64_Assembly/hello_world.asm	/^global hello$/;"	l	language:Asm
+h	acwing/basic/838.cpp	/^int h[N], n, m, num;$/;"	v	language:C++	typeref:typename:int[]
+h	acwing/basic/846.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[]
+h	acwing/basic/846_.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[]
+h	acwing/basic/847.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[]
+h	acwing/basic/848.cpp	/^int h[N], e[N], ne[N], idx;$/;"	v	language:C++	typeref:typename:int[]
+h	pat_jia/1004.cpp	/^int h[N], e[N], ne[N], idx;$/;"	v	language:C++	typeref:typename:int[]
+has	pat_jia/1050.cpp	/^unordered_set<char> has;$/;"	v	language:C++	typeref:typename:unordered_set<char>
+head	acwing/basic/826.cpp	/^int e[N], ne[N], idx, head;$/;"	v	language:C++	typeref:typename:int[][]
+head	acwing/basic/826_.cpp	/^int e[N], ne[N], idx, head;$/;"	v	language:C++	typeref:typename:int[][]
+head	lists/src/first.rs	/^    head: Link,$/;"	m	language:Rust	struct:List
+hello	exercism/c++/Hello_World/hello_world.cpp	/^string hello()$/;"	f	language:C++	namespace:hello_world	typeref:typename:string	signature:()
+hello	exercism/c/Hello_World/Hello_World.c	/^const char *hello(void)$/;"	f	language:C	typeref:typename:const char *	signature:(void)
+hello	exercism/python/hello_world.py	/^def hello():$/;"	f	language:Python	signature:()
+hello	exercism/rust/Hello_World/lib.rs	/^pub fn hello() -> &'static str {$/;"	f	language:Rust	signature:() -> &'static str
+hello	exercism/x86-64_Assembly/hello_world.asm	/^hello:$/;"	l	language:Asm
+hello_world	exercism/c++/Hello_World/hello_world.cpp	/^namespace hello_world$/;"	n	language:C++	file:
+hello_world	exercism/c++/Hello_World/hello_world.h	/^namespace hello_world {$/;"	n	language:C++
+hh	acwing/basic/154.cpp	/^int q[N], tt = -1, hh = 0;$/;"	v	language:C++	typeref:typename:int[]
+hh	acwing/basic/829.cpp	/^int q[N], tt = -1, hh = 0;$/;"	v	language:C++	typeref:typename:int[]
+idx	acwing/basic/143.cpp	/^int trie[M][2], idx;$/;"	v	language:C++	typeref:typename:int[][2]
+idx	acwing/basic/826.cpp	/^int e[N], ne[N], idx, head;$/;"	v	language:C++	typeref:typename:int[][]
+idx	acwing/basic/826_.cpp	/^int e[N], ne[N], idx, head;$/;"	v	language:C++	typeref:typename:int[][]
+idx	acwing/basic/827.cpp	/^int e[N], l[N], r[N], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+idx	acwing/basic/835.cpp	/^int trie[N][26], cnt[N], idx;$/;"	v	language:C++	typeref:typename:int[][26][]
+idx	acwing/basic/846.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+idx	acwing/basic/846_.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+idx	acwing/basic/847.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+idx	acwing/basic/848.cpp	/^int h[N], e[N], ne[N], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+idx	pat_jia/1004.cpp	/^int h[N], e[N], ne[N], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+im	opp_hj/complex.h	/^		double re, im;$/;"	m	language:C++	class:complex	typeref:typename:double
+imag	opp_hj/complex.h	/^	double imag() const { return im; }$/;"	f	language:C++	class:complex	typeref:typename:double	signature:() const
+imag	opp_hj/complex.h	/^inline double imag(const complex& x) {$/;"	f	language:C++	typeref:typename:double	signature:(const complex & x)
+init	acwing/basic/826.cpp	/^void init() {$/;"	f	language:C++	typeref:typename:void	signature:()
+init	acwing/basic/826_.cpp	/^void init() {$/;"	f	language:C++	typeref:typename:void	signature:()
+init	acwing/basic/827.cpp	/^void init() {$/;"	f	language:C++	typeref:typename:void	signature:()
+inorder	leetcode/Hot100/94BinaryTreeInorderTraversal.cpp	/^    void inorder(TreeNode* root, vector<int>& visit) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:	signature:(TreeNode * root,vector<int> & visit)
+inorder	leetcode/Hot100/94BinaryTreeInorderTraversal.rs	/^        fn inorder(root: Option<Rc<RefCell<TreeNode>>>, res: &mut Vec<i32>) {$/;"	f	language:Rust	method:Solution::inorder_traversal	signature:(root: Option<Rc<RefCell<TreeNode>>>, res: &mut Vec<i32>)
+inorderTraversal	leetcode/Hot100/94BinaryTreeInorderTraversal.cpp	/^    vector<int> inorderTraversal(TreeNode* root) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:	signature:(TreeNode * root)
+inorder_traversal	leetcode/Hot100/94BinaryTreeInorderTraversal.rs	/^    pub fn inorder_traversal(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<i32> {$/;"	P	language:Rust	implementation:Solution	signature:(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<i32>
+insert	acwing/basic/143.cpp	/^void insert(int x) {$/;"	f	language:C++	typeref:typename:void	signature:(int x)
+insert	acwing/basic/835.cpp	/^void insert(char str[]) {$/;"	f	language:C++	typeref:typename:void	signature:(char str[])
+isValid	leetcode/Hot100/20VaildParentheses.cpp	/^    bool isValid(string s) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:	signature:(string s)
+is_armstrong_number	exercism/c/Armstrong_Numbers/Armstrong_Numbers.c	/^bool is_armstrong_number(int candidate) {$/;"	f	language:C	typeref:typename:bool	signature:(int candidate)
+is_leap_year	exercism/c++/leap/leap.cpp	/^    bool is_leap_year(int year) {$/;"	f	language:C++	namespace:leap	typeref:typename:bool	signature:(int year)
+is_prime	PTA/Basic_Level/1007.cpp	/^bool is_prime(int n) {$/;"	f	language:C++	typeref:typename:bool	signature:(int n)
+is_prime	PTA/Basic_Level/1007.rs	/^fn is_prime(n: usize) -> bool {$/;"	f	language:Rust	signature:(n: usize) -> bool
+is_prime	PTA/Basic_Level/1013.cpp	/^bool is_prime(int n) {$/;"	f	language:C++	typeref:typename:bool	signature:(int n)
+is_prime	PTA/Basic_Level/1013.rs	/^fn is_prime(n: i32) -> bool {$/;"	f	language:Rust	signature:(n: i32) -> bool
+is_valid	leetcode/Hot100/20VaildParentheses.rs	/^    pub fn is_valid(s: String) -> bool {$/;"	P	language:Rust	implementation:Solution	signature:(s: String) -> bool
+k	acwing/basic/154.cpp	/^int n, k;$/;"	v	language:C++	typeref:typename:int
+k	acwing/basic/798.cpp	/^int a[N][N], n, m, k;$/;"	v	language:C++	typeref:typename:int[][]
+key	linuxmooc/chapter1/rbtree/rbtree.c	/^    int key;$/;"	m	language:C	struct:mytype	typeref:typename:int	file:
+l	acwing/basic/803.cpp	/^int n, l, r;$/;"	v	language:C++	typeref:typename:int
+l	acwing/basic/827.cpp	/^int e[N], l[N], r[N], idx;$/;"	v	language:C++	typeref:typename:int[][]
+leap	exercism/c++/leap/leap.cpp	/^namespace leap {$/;"	n	language:C++	file:
+leap	exercism/c++/leap/leap.h	/^namespace leap {$/;"	n	language:C++
+list	linuxmooc/chapter1/lklist/lklist.c	/^    struct list_head list; $/;"	m	language:C	struct:lklist	typeref:struct:list_head	file:
+lk	linuxmooc/chapter1/lklist/lklist.c	/^struct lklist lk;$/;"	v	language:C	typeref:struct:lklist
+lk_exit	linuxmooc/chapter1/exnum/exnum.c	/^static void __exit lk_exit(void) {$/;"	f	language:C	typeref:typename:void __exit	file:	signature:(void)
+lk_exit	linuxmooc/chapter1/kernel_param/kernel_param.c	/^static void __exit lk_exit(void)$/;"	f	language:C	typeref:typename:void __exit	file:	signature:(void)
+lk_exnum	linuxmooc/chapter1/exnum/exnum.c	/^static int __init lk_exnum(void) {$/;"	f	language:C	typeref:typename:int __init	file:	signature:(void)
+lk_exnum	linuxmooc/chapter1/kernel_param/kernel_param.c	/^static int __init lk_exnum(void) {$/;"	f	language:C	typeref:typename:int __init	file:	signature:(void)
+lklist	linuxmooc/chapter1/lklist/lklist.c	/^static int __init lklist(void) {$/;"	f	language:C	typeref:typename:int __init	file:	signature:(void)
+lklist	linuxmooc/chapter1/lklist/lklist.c	/^struct lklist {$/;"	s	language:C	file:
+lklist_exit	linuxmooc/chapter1/lklist/lklist.c	/^static void __exit lklist_exit(void) {$/;"	f	language:C	typeref:typename:void __exit	file:	signature:(void)
+lkp_cleanup	linuxmooc/chapter1/helloworld/helloworld.c	/^static void __exit lkp_cleanup(void) {$/;"	f	language:C	typeref:typename:void __exit	file:	signature:(void)
+lkp_init	linuxmooc/chapter1/helloworld/helloworld.c	/^static int __init lkp_init(void) {$/;"	f	language:C	typeref:typename:int __init	file:	signature:(void)
+m	acwing/basic/780.cpp	/^int a[N], b[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[][]
+m	acwing/basic/781.cpp	/^int a[N], b[N], n, m;$/;"	v	language:C++	typeref:typename:int[][]
+m	acwing/basic/796.cpp	/^int a[N][N], n, m, x;$/;"	v	language:C++	typeref:typename:int[][]
+m	acwing/basic/797.cpp	/^int a[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[]
+m	acwing/basic/798.cpp	/^int a[N][N], n, m, k;$/;"	v	language:C++	typeref:typename:int[][]
+m	acwing/basic/828.cpp	/^int m, x;$/;"	v	language:C++	typeref:typename:int
+m	acwing/basic/836.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+m	acwing/basic/838.cpp	/^int h[N], n, m, num;$/;"	v	language:C++	typeref:typename:int[]
+m	acwing/basic/844.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+m	acwing/basic/844_.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+m	acwing/basic/847.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+m	acwing/basic/848.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+m	pat_jia/1004.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+m_data	opp_hj/string.h	/^	char* m_data;$/;"	m	language:C++	class:String	typeref:typename:char *
+main	PPT_Code/ex1.c	/^int main() {$/;"	f	language:C	typeref:typename:int	signature:()
+main	PPT_Code/ex2.c	/^int main() {$/;"	f	language:C	typeref:typename:int	signature:()
+main	PPT_Code/ex3.c	/^void main() {$/;"	f	language:C	typeref:typename:void	signature:()
+main	PPT_Code/ex3.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/1001.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Advanced_Level/1001.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/1005.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Advanced_Level/1005.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/1006.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Advanced_Level/1006.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/1035.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Advanced_Level/1035.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/1036.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Advanced_Level/1036.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/1050.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Advanced_Level/1050.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/1061.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Advanced_Level/1061.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/1071.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Advanced_Level/1071.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Advanced_Level/test.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1001.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1001.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1002.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1002.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1004.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1004.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1006.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1006.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1007.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1007.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1008.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1008.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1009.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1009.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1010.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1010.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1011.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1011.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1013.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1013.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1021.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1021.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1022.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1022.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/1023.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	PTA/Basic_Level/1023.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	PTA/Basic_Level/test.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	ROS2_learn/ch2/d2lros2/chapt2/basic/first_ros2_node.cpp	/^int main(int argc, char **argv)$/;"	f	language:C++	typeref:typename:int	signature:(int argc,char ** argv)
+main	ROS2_learn/ch2/d2lros2/chapt2/first_ros2_node.cpp	/^int main(int argc, char **argv)$/;"	f	language:C++	typeref:typename:int	signature:(int argc,char ** argv)
+main	acwing/basic/143.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/154.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/3302.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/780.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/781.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/782.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/796.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/797.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/798.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/799.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/803.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/826.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/826_.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/827.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/828.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/829.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/830.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/835.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/836.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/837.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/838.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/842.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/843.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/844.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/844_.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/845.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/845_.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/846.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/846_.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/847.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	acwing/basic/848.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	coroutine/Makefile	/^main: main.c coroutine.c$/;"	t	language:Make
+main	coroutine/coroutine.c	/^	ucontext_t main;$/;"	m	language:C	struct:schedule	typeref:typename:ucontext_t	file:
+main	coroutine/main.c	/^int main() {$/;"	f	language:C	typeref:typename:int	signature:()
+main	leetcode/Hot100/test.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	leetcode/Hot100/test1.rs	/^fn main() {$/;"	f	language:Rust	signature:()
+main	linuxmooc/chapter1/exnum/test/testmax.c	/^int main() {$/;"	f	language:C	typeref:typename:int	signature:()
+main	linuxmooc/chapter1/exnum/test/text_diff.c	/^int main() {$/;"	f	language:C	typeref:typename:int	signature:()
+main	linuxmooc/chapter1/exnum/test/text_same.c	/^int main()$/;"	f	language:C	typeref:typename:int	signature:()
+main	modern_c++_learn/smart_ptr_learn.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	opp_hj/complex_test.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	opp_hj/string_test.cpp	/^int main()$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1001.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1004.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1005.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1006.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1035.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1036.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1050.cpp	/^int main(){$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1061.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+main	pat_jia/1071.cpp	/^int main() {$/;"	f	language:C++	typeref:typename:int	signature:()
+mainfunc	coroutine/coroutine.c	/^static void mainfunc(uint32_t low32, uint32_t hi32) {$/;"	f	language:C	typeref:typename:void	file:	signature:(uint32_t low32,uint32_t hi32)
+majorityElement	leetcode/Hot100/169Majority_Element.cpp	/^    int majorityElement(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:	signature:(vector<int> & nums)
+majority_element	leetcode/Hot100/169Majority_Element.rs	/^    pub fn majority_element(nums: Vec<i32>) -> i32 {$/;"	P	language:Rust	implementation:Solution	signature:(nums: Vec<i32>) -> i32
+max	linuxmooc/chapter1/exnum/test/testmax.c	/^#define max(/;"	d	language:C	file:	signature:(a,b)
+merge	acwing/basic/803.cpp	/^void merge(vector<PII>& segs) {$/;"	f	language:C++	typeref:typename:void	signature:(vector<PII> & segs)
+mergeTwoLists	leetcode/Hot100/21MergeTwoSortedLists.cpp	/^    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {$/;"	f	language:C++	class:Solution	typeref:typename:ListNode *	file:	signature:(ListNode * list1,ListNode * list2)
+merge_two_lists	leetcode/Hot100/21MergeTwoSortedLists.rs	/^    pub fn merge_two_lists(list1: Option<Box<ListNode>>, list2: Option<Box<ListNode>>) -> Option/;"	P	language:Rust	implementation:Solution	signature:(list1: Option<Box<ListNode>>, list2: Option<Box<ListNode>>) -> Option<Box<ListNode>>
+moveZeroes	leetcode/Hot100/283MoveZeroes.cpp	/^    void moveZeroes(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:	signature:(vector<int> & nums)
+move_zeroes	leetcode/Hot100/283MoveZeroes.rs	/^    pub fn move_zeroes(nums: &mut Vec<i32>) {$/;"	P	language:Rust	implementation:Solution	signature:(nums: &mut Vec<i32>)
+mp	PTA/Advanced_Level/1071.cpp	/^unordered_map<string, int> mp;$/;"	v	language:C++	typeref:typename:unordered_map<string,int>
+mp	pat_jia/1071.cpp	/^unordered_map<string, int> mp;$/;"	v	language:C++	typeref:typename:unordered_map<string,int>
+msg	exercism/x86-64_Assembly/hello_world.asm	/^msg: db "Hello, World!", 0$/;"	d	language:Asm
+msgstru	PPT_Code/ex2.c	/^struct msgstru {$/;"	s	language:C	file:
+msgtext	PPT_Code/ex2.c	/^	char msgtext[2048];$/;"	m	language:C	struct:msgstru	typeref:typename:char[2048]	file:
+msgtype	PPT_Code/ex2.c	/^	long msgtype;$/;"	m	language:C	struct:msgstru	typeref:typename:long	file:
+multiply	CodeWars/Multiply.rs	/^fn multiply(a:i32, b:i32) -> i32 {$/;"	f	language:Rust	signature:(a:i32, b:i32) -> i32
+mutex_1	leetcode/mutlithred/1114_1.c	/^    int mutex_1;$/;"	m	language:C	struct:__anon932dca320108	typeref:typename:int	file:
+mutex_1	leetcode/mutlithred/1114_2.c	/^    pthread_mutex_t mutex_1;$/;"	m	language:C	struct:__anon932dce730108	typeref:typename:pthread_mutex_t	file:
+mutex_2	leetcode/mutlithred/1114_1.c	/^    int mutex_2;$/;"	m	language:C	struct:__anon932dca320108	typeref:typename:int	file:
+mutex_2	leetcode/mutlithred/1114_2.c	/^    pthread_mutex_t mutex_2;$/;"	m	language:C	struct:__anon932dce730108	typeref:typename:pthread_mutex_t	file:
+my_exit	linuxmooc/chapter1/rbtree/rbtree.c	/^static void __exit my_exit(void)$/;"	f	language:C	typeref:typename:void __exit	file:	signature:(void)
+my_init	linuxmooc/chapter1/rbtree/rbtree.c	/^static int __init my_init(void)$/;"	f	language:C	typeref:typename:int __init	file:	signature:(void)
+my_insert	linuxmooc/chapter1/rbtree/rbtree.c	/^int my_insert(struct rb_root *root, struct mytype *data)$/;"	f	language:C	typeref:typename:int	signature:(struct rb_root * root,struct mytype * data)
+my_search	linuxmooc/chapter1/rbtree/rbtree.c	/^struct mytype* my_search(struct rb_root* root, int new) $/;"	f	language:C	typeref:struct:mytype *	signature:(struct rb_root * root,int new)
+mytree	linuxmooc/chapter1/rbtree/rbtree.c	/^struct rb_root mytree = RB_ROOT;$/;"	v	language:C	typeref:struct:rb_root
+mytype	linuxmooc/chapter1/rbtree/rbtree.c	/^struct mytype {$/;"	s	language:C	file:
+n	acwing/basic/143.cpp	/^int a[N], n;$/;"	v	language:C++	typeref:typename:int[]
+n	acwing/basic/154.cpp	/^int n, k;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/780.cpp	/^int a[N], b[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[][]
+n	acwing/basic/781.cpp	/^int a[N], b[N], n, m;$/;"	v	language:C++	typeref:typename:int[][]
+n	acwing/basic/796.cpp	/^int a[N][N], n, m, x;$/;"	v	language:C++	typeref:typename:int[][]
+n	acwing/basic/797.cpp	/^int a[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[]
+n	acwing/basic/798.cpp	/^int a[N][N], n, m, k;$/;"	v	language:C++	typeref:typename:int[][]
+n	acwing/basic/799.cpp	/^int a[N], s[N], n, res;$/;"	v	language:C++	typeref:typename:int[][]
+n	acwing/basic/803.cpp	/^int n, l, r;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/836.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/838.cpp	/^int h[N], n, m, num;$/;"	v	language:C++	typeref:typename:int[]
+n	acwing/basic/842.cpp	/^int a[N], n;$/;"	v	language:C++	typeref:typename:int[]
+n	acwing/basic/843.cpp	/^int n;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/844.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/844_.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/846.cpp	/^int ans = N, n;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/846_.cpp	/^int ans = N, n;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/847.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+n	acwing/basic/848.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+n	coroutine/main.c	/^	int n;$/;"	m	language:C	struct:args	typeref:typename:int	file:
+n	pat_jia/1004.cpp	/^int n, m;$/;"	v	language:C++	typeref:typename:int
+na	pat_jia/1035.cpp	/^string na, pd;$/;"	v	language:C++	typeref:typename:string
+name	pat_jia/1035.cpp	/^string name[N], pwd[N];$/;"	v	language:C++	typeref:typename:string[]
+nco	coroutine/coroutine.c	/^	int nco;$/;"	m	language:C	struct:schedule	typeref:typename:int	file:
+ne	acwing/basic/826.cpp	/^int e[N], ne[N], idx, head;$/;"	v	language:C++	typeref:typename:int[][]
+ne	acwing/basic/826_.cpp	/^int e[N], ne[N], idx, head;$/;"	v	language:C++	typeref:typename:int[][]
+ne	acwing/basic/846.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+ne	acwing/basic/846_.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+ne	acwing/basic/847.cpp	/^int h[N], e[M], ne[M], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+ne	acwing/basic/848.cpp	/^int h[N], e[N], ne[N], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+ne	pat_jia/1004.cpp	/^int h[N], e[N], ne[N], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+new	leetcode/Hot100/test.rs	/^    fn new(val: i32) -> Self {$/;"	P	language:Rust	implementation:ListNode	signature:(val: i32) -> Self
+new	lists/src/first.rs	/^    pub fn new() -> Self {$/;"	P	language:Rust	implementation:List	signature:() -> Self
+next	leetcode/Hot100/test.rs	/^    pub next: Option<Box<ListNode>>,$/;"	m	language:Rust	struct:ListNode
+next	lists/src/first.rs	/^    next: Link,$/;"	m	language:Rust	struct:Node
+node	linuxmooc/chapter1/rbtree/rbtree.c	/^    struct rb_node node;$/;"	m	language:C	struct:mytype	typeref:struct:rb_node	file:
+norm	opp_hj/complex.h	/^inline double norm(const complex& x) {$/;"	f	language:C++	typeref:typename:double	signature:(const complex & x)
+num	acwing/basic/3302.cpp	/^stack<int> num;$/;"	v	language:C++	typeref:typename:stack<int>
+num	acwing/basic/838.cpp	/^int h[N], n, m, num;$/;"	v	language:C++	typeref:typename:int[]
+obj-m	linuxmooc/chapter1/exnum/Makefile	/^obj-m:=exnum.o$/;"	m	language:Make
+obj-m	linuxmooc/chapter1/helloworld/Makefile	/^obj-m:=helloworld.o$/;"	m	language:Make
+obj-m	linuxmooc/chapter1/kernel_param/Makefile	/^obj-m:=kernel_param.o$/;"	m	language:Make
+obj-m	linuxmooc/chapter1/lklist/Makefile	/^obj-m:=lklist.o$/;"	m	language:Make
+obj-m	linuxmooc/chapter1/rbtree/Makefile	/^obj-m:=rbtree.o$/;"	m	language:Make
+obj-m	linuxmooc/chapter2/paging_lowmem/Makefile	/^obj-m:= paging_lowmem.o$/;"	m	language:Make
+op	acwing/basic/3302.cpp	/^stack<char> op;$/;"	v	language:C++	typeref:typename:stack<char>
+operator !=	opp_hj/complex.h	/^inline bool operator != (const complex& x, const complex& y) {$/;"	f	language:C++	typeref:typename:bool	signature:(const complex & x,const complex & y)
+operator !=	opp_hj/complex.h	/^inline bool operator != (const complex& x, double y) {$/;"	f	language:C++	typeref:typename:bool	signature:(const complex & x,double y)
+operator !=	opp_hj/complex.h	/^inline bool operator != (double x, const complex& y) {$/;"	f	language:C++	typeref:typename:bool	signature:(double x,const complex & y)
+operator *	modern_c++_learn/smart_ptr_learn.cpp	/^    T& operator*() const noexcept {$/;"	f	language:C++	class:smart_ptr	typeref:typename:T &	file:	signature:() const
+operator *	opp_hj/complex.h	/^inline complex operator * (const complex& x, const complex& y) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x,const complex & y)
+operator *	opp_hj/complex.h	/^inline complex operator * (const complex& x, double y) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x,double y)
+operator *	opp_hj/complex.h	/^inline complex operator * (double x, const complex& y) {$/;"	f	language:C++	typeref:typename:complex	signature:(double x,const complex & y)
+operator *=	opp_hj/complex.h	/^inline complex& complex::operator *= (const complex& r) {$/;"	f	language:C++	class:complex	typeref:typename:complex &	signature:(const complex & r)
+operator +	opp_hj/complex.h	/^inline complex operator + (const complex& x) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x)
+operator +	opp_hj/complex.h	/^inline complex operator + (const complex& x, const complex& y) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x,const complex & y)
+operator +	opp_hj/complex.h	/^inline complex operator + (const complex& x, double y) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x,double y)
+operator +	opp_hj/complex.h	/^inline complex operator + (double x, const complex& y) {$/;"	f	language:C++	typeref:typename:complex	signature:(double x,const complex & y)
+operator +=	opp_hj/complex.h	/^inline complex& complex::operator += (const complex& r) {$/;"	f	language:C++	class:complex	typeref:typename:complex &	signature:(const complex & r)
+operator -	opp_hj/complex.h	/^inline complex operator - (const complex& x) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x)
+operator -	opp_hj/complex.h	/^inline complex operator - (const complex& x, const complex& y) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x,const complex & y)
+operator -	opp_hj/complex.h	/^inline complex operator - (const complex& x, double y) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x,double y)
+operator -	opp_hj/complex.h	/^inline complex operator - (double x, const complex& y) {$/;"	f	language:C++	typeref:typename:complex	signature:(double x,const complex & y)
+operator -=	opp_hj/complex.h	/^inline complex& complex::operator -= (const complex& r) {$/;"	f	language:C++	class:complex	typeref:typename:complex &	signature:(const complex & r)
+operator ->	modern_c++_learn/smart_ptr_learn.cpp	/^    T* operator->() const noexcept {$/;"	f	language:C++	class:smart_ptr	typeref:typename:T *	file:	signature:() const
+operator /	opp_hj/complex.h	/^complex operator \/ (const complex& x, double y) {$/;"	f	language:C++	typeref:typename:complex	signature:(const complex & x,double y)
+operator <<	opp_hj/complex_test.cpp	/^ostream& operator << (ostream& os, const complex& x) {$/;"	f	language:C++	typeref:typename:ostream &	signature:(ostream & os,const complex & x)
+operator <<	opp_hj/string.h	/^ostream& operator << (ostream& os, const String& str) {$/;"	f	language:C++	typeref:typename:ostream &	signature:(ostream & os,const String & str)
+operator =	modern_c++_learn/smart_ptr_learn.cpp	/^    smart_ptr& operator=(smart_ptr rhs) noexcept {$/;"	f	language:C++	class:smart_ptr	typeref:typename:smart_ptr &	file:	signature:(smart_ptr rhs)
+operator =	opp_hj/string.h	/^inline String& String::operator=(const String& str) {$/;"	f	language:C++	class:String	typeref:typename:String &	signature:(const String & str)
+operator ==	opp_hj/complex.h	/^inline bool operator == (const complex& x, const complex& y) {$/;"	f	language:C++	typeref:typename:bool	signature:(const complex & x,const complex & y)
+operator ==	opp_hj/complex.h	/^inline bool operator == (const complex& x, double y) {$/;"	f	language:C++	typeref:typename:bool	signature:(const complex & x,double y)
+operator ==	opp_hj/complex.h	/^inline bool operator == (double x, const complex& y) {$/;"	f	language:C++	typeref:typename:bool	signature:(double x,const complex & y)
+p	acwing/basic/836.cpp	/^int p[N];$/;"	v	language:C++	typeref:typename:int[]
+p	acwing/basic/837.cpp	/^int p[N], cnt[N];$/;"	v	language:C++	typeref:typename:int[]
+pd	pat_jia/1035.cpp	/^string na, pd;$/;"	v	language:C++	typeref:typename:string
+polar	opp_hj/complex.h	/^inline complex polar(double r, double t) {$/;"	f	language:C++	typeref:typename:complex	signature:(double r,double t)
+pop	lists/src/first.rs	/^    pub fn pop(&mut self) -> Option<i32> {$/;"	P	language:Rust	implementation:List	signature:(&mut self) -> Option<i32>
+power	exercism/c/Armstrong_Numbers/Armstrong_Numbers.c	/^int power(int a, int b) {$/;"	f	language:C	typeref:typename:int	signature:(int a,int b)
+pr	acwing/basic/3302.cpp	/^unordered_map<char, int> pr;$/;"	v	language:C++	typeref:typename:unordered_map<char,int>
+ptr_	modern_c++_learn/smart_ptr_learn.cpp	/^    T* ptr_;$/;"	m	language:C++	class:smart_ptr	typeref:typename:T *	file:
+push	lists/src/first.rs	/^    pub fn push(&mut self, elem: i32) {$/;"	P	language:Rust	implementation:List	signature:(&mut self, elem: i32)
+pwd	pat_jia/1035.cpp	/^string name[N], pwd[N];$/;"	v	language:C++	typeref:typename:string[][]
+q	acwing/basic/154.cpp	/^int q[N], tt = -1, hh = 0;$/;"	v	language:C++	typeref:typename:int[]
+q	acwing/basic/829.cpp	/^int q[N], tt = -1, hh = 0;$/;"	v	language:C++	typeref:typename:int[]
+q	acwing/basic/844.cpp	/^PII q[N * N];$/;"	v	language:C++	typeref:typename:PII[]
+q	acwing/basic/844_.cpp	/^PII q[N * N];$/;"	v	language:C++	typeref:typename:PII[]
+q	acwing/basic/845.cpp	/^queue<string> q;$/;"	v	language:C++	typeref:typename:queue<string>
+q	acwing/basic/845_.cpp	/^queue<string> q;$/;"	v	language:C++	typeref:typename:queue<string>
+q	acwing/basic/847.cpp	/^int d[N], q[N];$/;"	v	language:C++	typeref:typename:int[][]
+q	acwing/basic/848.cpp	/^int q[N], d[N];$/;"	v	language:C++	typeref:typename:int[]
+query	acwing/basic/143.cpp	/^int query(int x) {$/;"	f	language:C++	typeref:typename:int	signature:(int x)
+query	acwing/basic/835.cpp	/^int query(char str[]) {$/;"	f	language:C++	typeref:typename:int	signature:(char str[])
+r	acwing/basic/803.cpp	/^int n, l, r;$/;"	v	language:C++	typeref:typename:int
+r	acwing/basic/827.cpp	/^int e[N], l[N], r[N], idx;$/;"	v	language:C++	typeref:typename:int[][][]
+re	opp_hj/complex.h	/^		double re, im;$/;"	m	language:C++	class:complex	typeref:typename:double
+real	opp_hj/complex.h	/^	double real() const { return re; }$/;"	f	language:C++	class:complex	typeref:typename:double	signature:() const
+real	opp_hj/complex.h	/^inline double real(const complex& x) {$/;"	f	language:C++	typeref:typename:double	signature:(const complex & x)
+reduce_count	modern_c++_learn/smart_ptr_learn.cpp	/^    long reduce_count() noexcept {$/;"	f	language:C++	class:shared_count	typeref:typename:long	file:	signature:()
+reinterpret_pointer_cast	modern_c++_learn/smart_ptr_learn.cpp	/^smart_ptr<T> reinterpret_pointer_cast(const smart_ptr<U>& other) noexcept {$/;"	f	language:C++	typeref:typename:smart_ptr<T>	signature:(const smart_ptr<U> & other)
+remove	acwing/basic/826.cpp	/^void remove(int k) {$/;"	f	language:C++	typeref:typename:void	signature:(int k)
+remove	acwing/basic/826_.cpp	/^void remove(int k) {$/;"	f	language:C++	typeref:typename:void	signature:(int k)
+remove	acwing/basic/827.cpp	/^void remove(int k) {$/;"	f	language:C++	typeref:typename:void	signature:(int k)
+res	acwing/basic/799.cpp	/^int a[N], s[N], n, res;$/;"	v	language:C++	typeref:typename:int[][]
+running	coroutine/coroutine.c	/^	int running;$/;"	m	language:C	struct:schedule	typeref:typename:int	file:
+s	PTA/Advanced_Level/1005.cpp	/^string s[] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};$/;"	v	language:C++	typeref:typename:string[]
+s	acwing/basic/799.cpp	/^int a[N], s[N], n, res;$/;"	v	language:C++	typeref:typename:int[][]
+scan	PTA/Basic_Level/test.rs	/^macro_rules! scan {$/;"	M	language:Rust
+sch	coroutine/coroutine.c	/^	struct schedule *sch;$/;"	m	language:C	struct:coroutine	typeref:struct:schedule *	file:
+schedule	coroutine/coroutine.c	/^struct schedule {$/;"	s	language:C	file:
+second	leetcode/mutlithred/1114_1.c	/^void second(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+second	leetcode/mutlithred/1114_2.c	/^void second(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+second	leetcode/mutlithred/1114_3.c	/^void second(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+shape	modern_c++_learn/smart_ptr_learn.cpp	/^class shape {$/;"	c	language:C++	file:
+shared_count	modern_c++_learn/smart_ptr_learn.cpp	/^    shared_count() noexcept$/;"	f	language:C++	class:shared_count	file:	signature:()
+shared_count	modern_c++_learn/smart_ptr_learn.cpp	/^class shared_count {$/;"	c	language:C++	file:
+shared_count_	modern_c++_learn/smart_ptr_learn.cpp	/^    shared_count* shared_count_;$/;"	m	language:C++	class:smart_ptr	typeref:typename:shared_count *	file:
+singleNumber	leetcode/Hot100/136Single_Number.cpp	/^    int singleNumber(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:	signature:(vector<int> & nums)
+single_number	leetcode/Hot100/136Single_Number.rs	/^    pub fn single_number(nums: Vec<i32>) -> i32 {$/;"	P	language:Rust	implementation:Solution	signature:(nums: Vec<i32>) -> i32
+size	coroutine/coroutine.c	/^	ptrdiff_t size;$/;"	m	language:C	struct:coroutine	typeref:typename:ptrdiff_t	file:
+smart_ptr	modern_c++_learn/smart_ptr_learn.cpp	/^    explicit smart_ptr(T* ptr = nullptr) : ptr_(ptr) {$/;"	f	language:C++	class:smart_ptr	file:	signature:(T * ptr=nullptr)
+smart_ptr	modern_c++_learn/smart_ptr_learn.cpp	/^    smart_ptr(const smart_ptr& other) {$/;"	f	language:C++	class:smart_ptr	file:	signature:(const smart_ptr & other)
+smart_ptr	modern_c++_learn/smart_ptr_learn.cpp	/^    smart_ptr(const smart_ptr<U>& other, T* ptr) noexcept {$/;"	f	language:C++	class:smart_ptr	file:	signature:(const smart_ptr<U> & other,T * ptr)
+smart_ptr	modern_c++_learn/smart_ptr_learn.cpp	/^class smart_ptr {$/;"	c	language:C++	file:
+st	acwing/basic/828.cpp	/^int st[N], tt = -1;$/;"	v	language:C++	typeref:typename:int[]
+st	acwing/basic/830.cpp	/^int st[N], tt = -1;$/;"	v	language:C++	typeref:typename:int[]
+st	acwing/basic/845.cpp	/^string st = "", ed = "12345678x";$/;"	v	language:C++	typeref:typename:string
+st	acwing/basic/845_.cpp	/^string st = "", ed = "12345678x";$/;"	v	language:C++	typeref:typename:string
+stack	coroutine/coroutine.c	/^	char *stack;$/;"	m	language:C	struct:coroutine	typeref:typename:char *	file:
+stack	coroutine/coroutine.c	/^	char stack[STACK_SIZE];$/;"	m	language:C	struct:schedule	typeref:typename:char[]	file:
+static_pointer_cast	modern_c++_learn/smart_ptr_learn.cpp	/^smart_ptr<T> static_pointer_cast(const smart_ptr<U>& other) noexcept {$/;"	f	language:C++	typeref:typename:smart_ptr<T>	signature:(const smart_ptr<U> & other)
+status	coroutine/coroutine.c	/^	int status;$/;"	m	language:C	struct:coroutine	typeref:typename:int	file:
+str	acwing/basic/835.cpp	/^char str[N];$/;"	v	language:C++	typeref:typename:char[]
+swap	modern_c++_learn/smart_ptr_learn.cpp	/^    void swap(smart_ptr& rhs) noexcept {$/;"	f	language:C++	class:smart_ptr	typeref:typename:void	file:	signature:(smart_ptr & rhs)
+test	coroutine/main.c	/^static void test(struct schedule *S) {$/;"	f	language:C	typeref:typename:void	file:	signature:(struct schedule * S)
+test	lists/src/first.rs	/^mod test {$/;"	n	language:Rust
+third	leetcode/mutlithred/1114_1.c	/^void third(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+third	leetcode/mutlithred/1114_2.c	/^void third(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+third	leetcode/mutlithred/1114_3.c	/^void third(Foo* obj) {$/;"	f	language:C	typeref:typename:void	signature:(Foo * obj)
+toposort	acwing/basic/848.cpp	/^bool toposort() {$/;"	f	language:C++	typeref:typename:bool	signature:()
+transform	PTA/Advanced_Level/1035.cpp	/^string transform(string s) {$/;"	f	language:C++	typeref:typename:string	signature:(string s)
+transform	PTA/Advanced_Level/1035.rs	/^fn transform(s: String) -> String {$/;"	f	language:Rust	signature:(s: String) -> String
+traversal_lklist	linuxmooc/chapter1/lklist/lklist.c	/^void traversal_lklist(void) {$/;"	f	language:C	typeref:typename:void	signature:(void)
+trie	acwing/basic/143.cpp	/^int trie[M][2], idx;$/;"	v	language:C++	typeref:typename:int[][2]
+trie	acwing/basic/835.cpp	/^int trie[N][26], cnt[N], idx;$/;"	v	language:C++	typeref:typename:int[][26]
+tt	acwing/basic/154.cpp	/^int q[N], tt = -1, hh = 0;$/;"	v	language:C++	typeref:typename:int[]
+tt	acwing/basic/828.cpp	/^int st[N], tt = -1;$/;"	v	language:C++	typeref:typename:int[]
+tt	acwing/basic/829.cpp	/^int q[N], tt = -1, hh = 0;$/;"	v	language:C++	typeref:typename:int[]
+tt	acwing/basic/830.cpp	/^int st[N], tt = -1;$/;"	v	language:C++	typeref:typename:int[]
+twoSum	leetcode/Hot100/1TwoSum.cpp	/^    vector<int> twoSum(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:	signature:(vector<int> & nums,int target)
+two_sum	leetcode/Hot100/1TwoSum.rs	/^    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {$/;"	P	language:Rust	implementation:Solution	signature:(nums: Vec<i32>, target: i32) -> Vec<i32>
+ud	coroutine/coroutine.c	/^	void *ud;$/;"	m	language:C	struct:coroutine	typeref:typename:void *	file:
+udg	acwing/basic/843.cpp	/^bool col[N], dg[N], udg[N];$/;"	v	language:C++	typeref:typename:bool[][][]
+use_count	modern_c++_learn/smart_ptr_learn.cpp	/^    long use_count() const noexcept {$/;"	f	language:C++	class:smart_ptr	typeref:typename:long	file:	signature:() const
+v1	PTA/Advanced_Level/1035.cpp	/^vector<string> v1, v2;$/;"	v	language:C++	typeref:typename:vector<string>
+v2	PTA/Advanced_Level/1035.cpp	/^vector<string> v1, v2;$/;"	v	language:C++	typeref:typename:vector<string>
+v2p_exit	linuxmooc/chapter2/paging_lowmem/paging_lowmem.c	/^static void __exit v2p_exit(void)$/;"	f	language:C	typeref:typename:void __exit	file:	signature:(void)
+v2p_init	linuxmooc/chapter2/paging_lowmem/paging_lowmem.c	/^static int __init v2p_init(void)$/;"	f	language:C	typeref:typename:int __init	file:	signature:(void)
+vaddr	linuxmooc/chapter2/paging_lowmem/paging_lowmem.c	/^static unsigned long vaddr = 0;$/;"	v	language:C	typeref:typename:unsigned long	file:
+vaddr2paddr	linuxmooc/chapter2/paging_lowmem/paging_lowmem.c	/^static unsigned long vaddr2paddr(unsigned long vaddr)$/;"	f	language:C	typeref:typename:unsigned long	file:	signature:(unsigned long vaddr)
+val	leetcode/Hot100/test.rs	/^    pub val: i32,$/;"	m	language:Rust	struct:ListNode
+vis	acwing/basic/846.cpp	/^bool vis[N];$/;"	v	language:C++	typeref:typename:bool[]
+vis	acwing/basic/846_.cpp	/^bool vis[N];$/;"	v	language:C++	typeref:typename:bool[]
+week	PTA/Advanced_Level/1061.cpp	/^string week[] = {"MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"};$/;"	v	language:C++	typeref:typename:string[]
+word	pat_jia/1005.cpp	/^string word[] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"}/;"	v	language:C++	typeref:typename:string[]
+x	PPT_Code/ex3.c	/^	int x;$/;"	m	language:C	struct:__anon999fc3a30108	typeref:typename:int	file:
+x	PPT_Code/ex3.rs	/^    x: i32,$/;"	m	language:Rust	struct:FuncArguments
+x	acwing/basic/780.cpp	/^int a[N], b[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[][]
+x	acwing/basic/796.cpp	/^int a[N][N], n, m, x;$/;"	v	language:C++	typeref:typename:int[][]
+x	acwing/basic/797.cpp	/^int a[N], n, m, x;$/;"	v	language:C++	typeref:typename:int[]
+x	acwing/basic/803.cpp	/^#define x /;"	d	language:C++	file:
+x	acwing/basic/828.cpp	/^int m, x;$/;"	v	language:C++	typeref:typename:int
+x	acwing/basic/844.cpp	/^#define x /;"	d	language:C++	file:
+x	acwing/basic/844_.cpp	/^#define x /;"	d	language:C++	file:
+y	PPT_Code/ex3.c	/^	int y;$/;"	m	language:C	struct:__anon999fc3a30108	typeref:typename:int	file:
+y	PPT_Code/ex3.rs	/^    y: i32,$/;"	m	language:Rust	struct:FuncArguments
+y	acwing/basic/803.cpp	/^#define y /;"	d	language:C++	file:
+y	acwing/basic/844.cpp	/^#define y /;"	d	language:C++	file:
+y	acwing/basic/844_.cpp	/^#define y /;"	d	language:C++	file:
+~String	opp_hj/string.h	/^inline String::~String() {$/;"	f	language:C++	class:String	signature:()
+~circle	modern_c++_learn/smart_ptr_learn.cpp	/^    ~circle() {puts("~circle()");}$/;"	f	language:C++	class:circle	file:	signature:()
+~shape	modern_c++_learn/smart_ptr_learn.cpp	/^    virtual ~shape() {}$/;"	f	language:C++	class:shape	file:	signature:()
+~smart_ptr	modern_c++_learn/smart_ptr_learn.cpp	/^    ~smart_ptr() {$/;"	f	language:C++	class:smart_ptr	file:	signature:()
